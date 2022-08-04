@@ -8,6 +8,3 @@ Just download the [tic_tac_toe_minimax.py] file and open up your terminal and si
 python3 tic_tac_toe_minimax.py
 ```
 
-# Screenshots
-
-![Tic Tac Toe AI](results/tic.png)
